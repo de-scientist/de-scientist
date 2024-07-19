@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is **Mark Gitau**
 #### I am a *Web Developer* and *Graphic Designer*
-![I am a *Web Developer* and *Graphic Designer*](https://drive.google.com/file/d/1Z5AnWwyjtoBfcwzx9o8mfyn9z-ePKkum/view?usp=sharing)
+![I am a *Web Developer* and *Graphic Designer*](https://media.licdn.com/dms/image/D4D16AQH29c_WZQYA9g/profile-displaybackgroundimage-shrink_350_1400/0/1721390264693?e=1726704000&v=beta&t=SiC9OO14e7G4VJqBhrvoPYJrP0MQvaVD1Ky2B3pXjGc)
 
 👨‍💻 Computer Science student passionate about front-end development and graphic design. Skilled in creating engaging user interfaces and stunning visuals. Constantly learning and innovating to blend technology with creativity. Let's build something amazing together!
 

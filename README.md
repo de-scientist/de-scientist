@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @de-scientist
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning .web design..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me .gitaumark502@gmail.com..
 
-<!---
-de-scientist/de-scientist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi there 👋, My name is **Mark Gitau**
+#### I am a *Web Developer* and *Graphic Designer*
+![I am a *Web Developer* and *Graphic Designer*](https://drive.google.com/file/d/1Z5AnWwyjtoBfcwzx9o8mfyn9z-ePKkum/view?usp=sharing)
+
+👨‍💻 Computer Science student passionate about front-end development and graphic design. Skilled in creating engaging user interfaces and stunning visuals. Constantly learning and innovating to blend technology with creativity. Let's build something amazing together!
+
+Skills:  PHP/MYSQL/JS / HTML / CSS/Photoshop designs/Premier Pro
+
+- 🔭 I’m currently working on this page. 
+
+
+
+

@@ -1,12 +1,16 @@
 ### Hi there 👋, My name is **Mark Gitau**
-#### I am a *Web Developer* and *Graphic Designer*
-![I am a *Web Developer* and *Graphic Designer*](https://media.licdn.com/dms/image/D4D16AQH29c_WZQYA9g/profile-displaybackgroundimage-shrink_350_1400/0/1721390264693?e=1726704000&v=beta&t=SiC9OO14e7G4VJqBhrvoPYJrP0MQvaVD1Ky2B3pXjGc)
+#### I am a *Full Stack Developer* and *Graphic Designer*
+![I am a *Full Stack Developer* and *Graphic Designer*](https://media.licdn.com/dms/image/D4D16AQH29c_WZQYA9g/profile-displaybackgroundimage-shrink_350_1400/0/1721390264693?e=1726704000&v=beta&t=SiC9OO14e7G4VJqBhrvoPYJrP0MQvaVD1Ky2B3pXjGc)
 
-👨‍💻 Computer Science student passionate about front-end development and graphic design. Skilled in creating engaging user interfaces and stunning visuals. Constantly learning and innovating to blend technology with creativity. Let's build something amazing together!
+👨‍💻 Computer Science student passionate about full-stack development and graphic design. Skilled in creating engaging user interfaces and stunning visuals. Constantly learning and innovating to blend technology with creativity. Let's build something amazing together!
 
-Skills:  PHP/MYSQL/JS / HTML / CSS/Photoshop designs/Premier Pro
+Skills:  React Js/ Node Js/ Fastify/Prisma/Express Js/Python/PHP/MYSQL/JS / HTML / CSS/Photoshop designs/Premier Pro
 
-- 🔭 I’m currently working on  an innovative healthcare website designed to enhance patient care and streamline medical services. Combining front-end development skills with graphic design expertise, the site aims to provide a user-friendly interface and visually appealing experience. This project reflects my commitment to leveraging technology to improve healthcare accessibility and efficiency. Check it out>> https://careone.rf.gd 
+- 🔭 I’m currently working on Edu_AI, my semester project.It's an AI-powered education system with features like:
+
+✅ Student-lecture interaction
+✅ A tailored student roadmap that updates based on strengths and performance. 
+Combining front-end development skills with graphic design expertise, the site aims to provide a user-friendly interface and visually appealing experience. This project reflects my commitment to leveraging technology to improve education accessibility and efficiency. 
 - 📫 How to reach me: Mobile No:+254 729934671 Email:gitaumark502@gmail.com 
 
 

@@ -2,15 +2,17 @@
 #### I am a *Full Stack Developer* and *Graphic Designer*
 ![I am a *Full Stack Developer* and *Graphic Designer*](https://media.licdn.com/dms/image/D4D16AQH29c_WZQYA9g/profile-displaybackgroundimage-shrink_350_1400/0/1721390264693?e=1726704000&v=beta&t=SiC9OO14e7G4VJqBhrvoPYJrP0MQvaVD1Ky2B3pXjGc)
 
-👨‍💻 Computer Science student passionate about full-stack development and graphic design. Skilled in creating engaging user interfaces and stunning visuals. Constantly learning and innovating to blend technology with creativity. Let's build something amazing together!
+👨‍💻 Computer Science graduate passionate about full-stack development and graphic design. Skilled in creating engaging user interfaces and stunning visuals. Constantly learning and innovating to blend technology with creativity. Let's build something amazing together!
 
-Skills:  React Js/ Node Js/ Fastify/Prisma/Express Js/Python/PHP/MYSQL/JS / HTML / CSS/Photoshop designs/Premier Pro
+Skills:  React Js/ Node Js/ Fastify/ Prisma/ Express Js/ Python/ PHP/ MYSQL/ JavaScript / HTML / CSS/ Photoshop designs/ Premier Pro/ PostgreSQL/ TypeScript/ Git&Github/ QA/ QE
 
-- 🔭 I’m currently working on Edu_AI, my semester project.It's an AI-powered education system with features like:
+-Excited to begin my Software Development Apprenticeship with Teach2Give at Murang’a University of Technology. Looking forward to gaining hands-on experience, sharpening my full-stack development skills, and contributing to impactful projects. 🚀💻
 
-✅ Student-lecture interaction
-✅ A tailored student roadmap that updates based on strengths and performance. 
-Combining front-end development skills with graphic design expertise, the site aims to provide a user-friendly interface and visually appealing experience. This project reflects my commitment to leveraging technology to improve education accessibility and efficiency. 
+-Continually engaged in an intensive software development apprenticeship program with a focus on modern full-stack practices.
+-Building and deploying real-world applications while sharpening skills in [React, Node.js, Databases...]
+-Collaborating with mentors and peers on projects, applying agile methodologies and clean coding principles.
+-Developing problem-solving and teamwork skills to prepare for professional software engineering roles.
+
 - 📫 How to reach me: Mobile No:+254 729934671 Email:gitaumark502@gmail.com 
 
 

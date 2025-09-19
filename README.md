@@ -1,6 +1,9 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20👌&fontSize=90" />
 </p>
+<h1>
+  👨🏻‍💻  A Little Bit About Me and My Interests
+</h1>
 
   ```yaml
 name: Mark Gitau

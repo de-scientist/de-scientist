@@ -1,6 +1,15 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20👌&fontSize=90" />
 </p>
+
+<h3>
+  Let's Connect and have a Chat!💬
+</h3>
+
+<p>
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gitaumark/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@GitauMark1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@gitaumark9297)  
+</p>
+
 <h1>
   👨🏻‍💻  A Little Bit About Me and My Interests
 </h1>

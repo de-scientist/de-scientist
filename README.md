@@ -2,9 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20👌&fontSize=90" />
 </p>
 
-<p>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXo5Y2ZrZzN0OW15dnh1NXp3OGRwcDJ0dHhhZWVmNW13bXU4Y3V5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" />
-</p>
+<div style="text-align: center;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXo5Y2ZrZzN0OW15dnh1NXp3OGRwcDJ0dHhhZWVmNW13bXU4Y3V5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" alt="Programming" width="300px"/>
+</div>
 
 <h1>
   👨🏻‍💻  A Little Bit About Me and My Interests

@@ -91,8 +91,8 @@ contact:
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=de-scientist&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=de-scientist&show_icons=true&theme=cobalt"
+    media="(prefers-color-scheme: cobalt)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
@@ -110,5 +110,5 @@ contact:
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=de-scientist)  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=de-scientist&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=de-scientist&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)-->
 

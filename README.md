@@ -86,11 +86,21 @@ contact:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=de-scientist)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=de-scientist)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=de-scientist)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=de-scientist&show_icons=true)  
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+</div>
 
 ![Snake animation](https://github.com/de-scientist/de-scientist/blob/output/github-contribution-grid-snake.svg)
 

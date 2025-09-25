@@ -1,9 +1,10 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&width=300&section=header&text=Hi%20👌&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Hi%20👌&fontSize=50" />
 </p>
 
-<div align: center;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXo5Y2ZrZzN0OW15dnh1NXp3OGRwcDJ0dHhhZWVmNW13bXU4Y3V5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" alt="Programming" width="300px"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXo5Y2ZrZzN0OW15dnh1NXp3OGRwcDJ0dHhhZWVmNW13bXU4Y3V5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" 
+       alt="Programming" width="300px"/>
 </div>
 
 <h1>
@@ -93,8 +94,10 @@ contact:
 
 </div>
 
+![Snake animation](./assets/snake.svg)
 
-![Snake animation](https://github.com/de-scientist/de-scientist/blob/output/github-contribution-grid-snake.svg)
+
+<!--![Snake animation](https://github.com/de-scientist/de-scientist/blob/output/github-contribution-grid-snake.svg)-->
 
 <!--![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/de-scientist/contributions?format=svg&private=false) --> 
 

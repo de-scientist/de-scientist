@@ -72,7 +72,7 @@ contact:
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=de-scientist)](https://github.com/ryo-ma/github-profile-trophy)-->
 
-<div align="center">
+<div >
 
   <!-- Top Languages -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -94,12 +94,13 @@ contact:
 
 </div>
 
-![Snake animation](https://github.com/de-scientist/de-scientist/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/de-scientist/de-scientist/blob/output/github-contribution-grid-snake.svg)-->
 
 <!--![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/de-scientist/contributions?format=svg&private=false) --> 
 
+<div align="center">
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=descientist&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 <!--![GitHub streak stats](https://streak-stats.demolab.com/?user=de-scientist) --> 
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=de-scientist&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)-->

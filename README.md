@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Hi%20👌&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0f0f,100:8e44ad&height=250&section=header&text=Hi%20👌&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20Profile!&descAlignY=55&descAlign=50" />
 </p>
+
 
 <div align="center">
   <a href="#">
@@ -130,3 +131,6 @@ contact:
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=de-scientist&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)-->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0f0f,100:8e44ad&height=200&section=footer&fontColor=ffffff&animation=twinkling" />
+</p>

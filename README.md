@@ -90,10 +90,10 @@ contact:
   <!-- GitHub Stats + Streaks -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=de-scientist&show_icons=true&theme=dracula" height="200"/>
-  </a>
+ <!-- </a>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=de-scientist&theme=dracula&hide_border=true" height="200"/>
-  </a>
+  </a>-->
 
 </div>
 
@@ -103,10 +103,10 @@ contact:
 
   <!-- Top Languages + WakaTime -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=de-scientist&layout=pie&theme=dracula" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=de-scientist&layout=pie&theme=dracula" height="300"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=descientist&layout=compact&theme=dracula" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=descientist&layout=compact&theme=dracula" width="200"/>
   </a>
 
 </div>

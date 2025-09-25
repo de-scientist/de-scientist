@@ -89,7 +89,7 @@ contact:
 
 ![Snake animation](https://github.com/de-scientist/de-scientist/blob/output/github-contribution-grid-snake.svg)
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/de-scientist/contributions?format=svg&private=false)  
+<!--![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/de-scientist/contributions?format=svg&private=false) --> 
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=descientist&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

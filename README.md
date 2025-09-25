@@ -99,14 +99,14 @@ contact:
 
 <br/>
 
-<div align="center">
+<div >
 
   <!-- Top Languages + WakaTime -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=de-scientist&layout=pie&theme=dracula" height="300"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=descientist&layout=compact&theme=dracula" width="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=descientist&layout=compact&theme=dracula" height="200"/>
   </a>
 
 </div>

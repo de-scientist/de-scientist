@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20👌&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&width=300&section=header&text=Hi%20👌&fontSize=90" />
 </p>
 
-<div style="text-align: center;">
+<div align: center;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXo5Y2ZrZzN0OW15dnh1NXp3OGRwcDJ0dHhhZWVmNW13bXU4Y3V5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" alt="Programming" width="300px"/>
 </div>
 
@@ -18,7 +18,7 @@ current_job: Full Stack Developer & Graphic Designer
 education: 
   [
     "Bachelor’s in Computer Science",
-    "Self-Taught Graphic Designer",
+    "Certificate in Graphic Design",
   ]
 
 company: TechVision Studios & Solutions

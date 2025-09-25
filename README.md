@@ -3,9 +3,14 @@
 </p>
 
 <div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Programming-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <br/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXo5Y2ZrZzN0OW15dnh1NXp3OGRwcDJ0dHhhZWVmNW13bXU4Y3V5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" 
-       alt="Programming" width="300px"/>
+       alt="Programming" width="280px"/>
 </div>
+
 
 <h1 align="center">
   👨🏻‍💻  A Little Bit About Me and My Interests
@@ -98,6 +103,7 @@ contact:
 </div>
 
 <br/>
+<br/>
 
 <div align="center">
 
@@ -105,6 +111,9 @@ contact:
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=de-scientist&layout=pie&theme=dracula" height="300"/>
   </a>
+
+   &nbsp;&nbsp;&nbsp; <!-- spacing -->
+  
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=descientist&layout=compact&theme=dracula" height="200"/>
   </a>

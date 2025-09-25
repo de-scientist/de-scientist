@@ -85,31 +85,37 @@ contact:
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=de-scientist)](https://github.com/ryo-ma/github-profile-trophy)-->
 
-<div >
+<div align="center">
 
-  <!-- Top Languages (Dracula Theme) -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=de-scientist&layout=pie&theme=dracula" height="300"/>
-  </a>
-
-  <!-- GitHub Stats (Dracula Theme) -->
+  <!-- GitHub Stats + Streaks -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=de-scientist&show_icons=true&theme=dracula" height="200"/>
   </a>
-
-  <!-- GitHub Streak Stats (Dracula Theme) -->
-   <a href="https://git.io/streak-stats">
+  <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=de-scientist&theme=dracula&hide_border=true" height="200"/>
   </a>
 
 </div>
 
+<br/>
+
+<div align="center">
+
+  <!-- Top Languages + WakaTime -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=de-scientist&layout=pie&theme=dracula" height="200"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=descientist&layout=compact&theme=dracula" height="200"/>
+  </a>
+
+</div>
+
+
 
 <!--![Snake animation](https://github.com/de-scientist/de-scientist/blob/output/github-contribution-grid-snake.svg)-->
 
 <!--![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/de-scientist/contributions?format=svg&private=false) --> 
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=descientist&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--![GitHub streak stats](https://streak-stats.demolab.com/?user=de-scientist) --> 
 

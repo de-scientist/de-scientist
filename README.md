@@ -85,11 +85,11 @@ contact:
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=de-scientist)](https://github.com/ryo-ma/github-profile-trophy)-->
 
-<div align="center">
+<div >
 
   <!-- Top Languages (Dracula Theme) -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=de-scientist&layout=pie&theme=dracula" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=de-scientist&layout=pie&theme=dracula" height="300"/>
   </a>
 
   <!-- GitHub Stats (Dracula Theme) -->
@@ -98,8 +98,8 @@ contact:
   </a>
 
   <!-- GitHub Streak Stats (Dracula Theme) -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=de-scientist&theme=dracula&hide_border=true" height="200"/>
+   <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=de-scientist&theme=dracula&hide_border=true" height="200"/>
   </a>
 
 </div>

@@ -99,7 +99,7 @@ contact:
 
 <br/>
 
-<div >
+<div align="center">
 
   <!-- Top Languages + WakaTime -->
   <a href="https://github.com/anuraghazra/github-readme-stats">

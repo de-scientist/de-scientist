@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0f0f,100:8e44ad&height=250&section=header&text=Hi%20👌&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20Profile!&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0f0f,100:8e44ad&height=250&section=header&text=Hi%20%F0%9F%91%8C&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Welcome%20to%20my%20Profile!&descAlignY=62&descAlign=50" />
 </p>
-
 
 <div align="center">
   <a href="#">
@@ -11,7 +10,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXo5Y2ZrZzN0OW15dnh1NXp3OGRwcDJ0dHhhZWVmNW13bXU4Y3V5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" 
        alt="Programming" width="280px"/>
 </div>
-
 
 <h1 align="center">
   👨🏻‍💻  A Little Bit About Me and My Interests

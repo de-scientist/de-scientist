@@ -7,7 +7,7 @@
        alt="Programming" width="300px"/>
 </div>
 
-<h1>
+<h1 align="center">
   👨🏻‍💻  A Little Bit About Me and My Interests
 </h1>
 
@@ -37,7 +37,7 @@ contact:
   email: "gitaumark502@gmail.com"
 
 ```
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
@@ -94,16 +94,13 @@ contact:
 
 </div>
 
-![Snake animation](./assets/snake.svg)
-
-
-<!--![Snake animation](https://github.com/de-scientist/de-scientist/blob/output/github-contribution-grid-snake.svg)-->
+![Snake animation](https://github.com/de-scientist/de-scientist/blob/output/github-contribution-grid-snake.svg)
 
 <!--![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/de-scientist/contributions?format=svg&private=false) --> 
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=descientist&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=de-scientist)  
+<!--![GitHub streak stats](https://streak-stats.demolab.com/?user=de-scientist) --> 
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=de-scientist&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)-->
 

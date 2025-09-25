@@ -25,24 +25,9 @@ company: TechVision Studios & Solutions
 
 fields_of_interests:
   [
-    "Full Stack Development",
-    "UI/UX Design",
-    "Graphic Design",
-    "Machine Learning",
-    "Software Engineering",
-    "DevOps",
+    "Full Stack Development", "UI/UX Design", "Graphic Design",
+    "Machine Learning", "Software Engineering", "DevOps",
   ]
-
-technical_background:
-  [
-    "Software Development Apprentice at Teach2Give",
-    "Experience with Agile methodologies & Clean Coding",
-    "Building and deploying real-world applications",
-    "Skilled in frontend, backend, and database systems",
-  ]
-
-currently_learning: ["Modern Full-Stack Practices, Cloud Computing, Team Collaboration"]
-2025 Goals: ["Contribute to impactful projects, sharpen full-stack skills, build innovative solutions."]
 
 hobbies: ["Designing", "Writing Spoken Word Poetry", "Cinema", "Technology", "Art"]
 

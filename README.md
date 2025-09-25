@@ -98,9 +98,8 @@ contact:
 
 <!--![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/de-scientist/contributions?format=svg&private=false) --> 
 
-<div align="center">
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=descientist&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 <!--![GitHub streak stats](https://streak-stats.demolab.com/?user=de-scientist) --> 
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=de-scientist&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)-->

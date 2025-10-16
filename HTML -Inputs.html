@@ -1,32 +1,122 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title>Contact Me</title>
-        <style>
-            body
-             {
-               background-color: powderblue;
-             }
-             hr
-             {
-               border-style: none;
-           border-top-style: dotted;
-           border-color: grey;
-               border-width: 5px;
-               width: 5%;
-             }
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Contact | De-Scientist</title>
+  <style>
+    body {
+      background-color: #e6f2ff;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
 
-       </style>
-        </head>
-        <body>
-            <form>
-        <input type="text"><br>
-        <input type="submit"><br>
-        <input type="file"><br>
-        <input type="date"><br>
-        <input type="radio"><br>
-        <input type="range"><br>
-            </form>
-        </body>
+    header {
+      text-align: center;
+      padding: 2rem 0;
+    }
+
+    h1 {
+      margin-bottom: 0.3rem;
+    }
+
+    p {
+      margin-top: 0;
+      color: #444;
+    }
+
+    hr {
+      border: none;
+      border-top: 3px dotted grey;
+      width: 50px;
+      margin: 1rem auto;
+    }
+
+    form {
+      max-width: 450px;
+      margin: 2rem auto;
+      background: white;
+      padding: 2rem;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    label {
+      display: block;
+      margin-bottom: 0.5rem;
+      font-weight: 600;
+    }
+
+    input, textarea {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 1.2rem;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      font-size: 1rem;
+      box-sizing: border-box;
+    }
+
+    input[type="submit"] {
+      background-color: #0077cc;
+      color: white;
+      font-weight: bold;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+
+    input[type="submit"]:hover {
+      background-color: #005fa3;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1.5rem 0;
+      font-size: 0.9rem;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Contact Me</h1>
+    <p>Let’s build something remarkable together 🚀</p>
+    <hr>
+  </header>
+
+  <form action="#" method="post" enctype="multipart/form-data">
+    <label for="name">Full Name</label>
+    <input type="text" id="name" name="name" placeholder="Enter your full name" required>
+
+    <label for="email">Email Address</label>
+    <input type="email" id="email" name="email" placeholder="you@example.com" required>
+
+    <label for="subject">Subject</label>
+    <input type="text" id="subject" name="subject" placeholder="What’s this about?" required>
+
+    <label for="message">Message</label>
+    <textarea id="message" name="message" rows="4" placeholder="Type your message here..." required></textarea>
+
+    <label for="file">Attach a File (Optional)</label>
+    <input type="file" id="file" name="file">
+
+    <label for="date">Preferred Date (Optional)</label>
+    <input type="date" id="date" name="date">
+
+    <label>Contact Preference</label>
+    <input type="radio" id="emailPref" name="contact_pref" value="Email">
+    <label for="emailPref" style="display:inline;">Email</label>
+    <input type="radio" id="callPref" name="contact_pref" value="Call">
+    <label for="callPref" style="display:inline;">Call</label>
+
+    <label for="priority">Priority Level</label>
+    <input type="range" id="priority" name="priority" min="1" max="5">
+
+    <input type="submit" value="Send Message">
+  </form>
+
+  <footer>
+    <p>© 2025 Mark Kinyanjui (De-Scientist) | TechVision Studios & Solutions</p>
+  </footer>
+</body>
 </html>

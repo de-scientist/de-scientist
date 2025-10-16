@@ -1,19 +1,140 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title>My hobbies</title>
-        <link rel="stylesheet" href="css/css/styles.css"> 
-    </head>
-    <body>
-        <h3>My Hobies</h3>
-        <ol>
-         <li>Livestreaming Services</li>
-         <li>Writing Programs</li>
-         <li>Watching Movies</li>
-         <li>Reading Novels</li>
-         <li>Riding Bikes and Motorcycles</li>
-         <li>Listening to Music</li>
-         <li>Martial Arts</li>
-        </ol>
-    </body>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>My Hobbies | De-Scientist</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/styles.css" />
+    <style>
+      /* ===== Global Reset ===== */
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        background: #f5f7fa;
+        color: #333;
+        line-height: 1.6;
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+      }
+
+      /* ===== Header & Navbar ===== */
+      header {
+        background: #0a2540;
+        padding: 1rem 0;
+      }
+
+      nav {
+        display: flex;
+        justify-content: center;
+        gap: 2rem;
+      }
+
+      nav a {
+        color: #fff;
+        text-decoration: none;
+        font-weight: 600;
+        transition: color 0.3s ease;
+      }
+
+      nav a:hover {
+        color: #ffd700;
+      }
+
+      /* ===== Main Section ===== */
+      .container {
+        background: #fff;
+        padding: 2rem;
+        margin: 2rem auto;
+        border-radius: 12px;
+        max-width: 700px;
+        width: 90%;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+      }
+
+      h1 {
+        text-align: center;
+        color: #0a2540;
+        margin-bottom: 1rem;
+        font-size: 2rem;
+      }
+
+      ol {
+        padding-left: 1.5rem;
+        font-size: 1rem;
+      }
+
+      li {
+        margin: 0.6rem 0;
+        line-height: 1.5;
+        transition: transform 0.2s ease;
+        cursor: default;
+      }
+
+      li:hover {
+        transform: translateX(8px);
+        color: #0a2540;
+        font-weight: 600;
+      }
+
+      .emoji {
+        margin-right: 8px;
+      }
+
+      /* ===== Footer ===== */
+      footer {
+        margin-top: auto;
+        background: #0a2540;
+        color: #fff;
+        text-align: center;
+        padding: 1rem 0;
+        font-size: 0.9rem;
+      }
+
+      footer a {
+        color: #ffd700;
+        text-decoration: none;
+        margin-left: 5px;
+      }
+
+      footer a:hover {
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- ===== Header ===== -->
+    <header>
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="hobbies.html">Hobbies</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </header>
+
+    <!-- ===== Main Content ===== -->
+    <div class="container">
+      <h1>My Hobbies</h1>
+      <ol>
+        <li><span class="emoji">🎥</span> Livestreaming Services</li>
+        <li><span class="emoji">💻</span> Writing Programs</li>
+        <li><span class="emoji">🎬</span> Watching Movies</li>
+        <li><span class="emoji">📚</span> Reading Novels</li>
+        <li><span class="emoji">🏍️</span> Riding Bikes and Motorcycles</li>
+        <li><span class="emoji">🎧</span> Listening to Music</li>
+        <li><span class="emoji">🥋</span> Martial Arts</li>
+      </ol>
+    </div>
+
+    <!-- ===== Footer ===== -->
+    <footer>
+      © 2025 <strong>De-Scientist</strong> | Built with ❤️ and Vision
+      <a href="mailto:gitaumark502@gmail.com">Contact Me</a>
+    </footer>
+  </body>
+</html>

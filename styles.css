@@ -1,201 +1,315 @@
-/* ===============================
-   🌟 GLOBAL STYLES
-   =============================== */
+/* ===================== GLOBAL STYLES ===================== */
 * {
-  margin: 0;
-  padding: 0;
   box-sizing: border-box;
 }
 
-html {
-  scroll-behavior: smooth;
-}
-
 body {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  background: #f5f7fa;
-  color: #333;
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
+  font-family: "Segoe UI", sans-serif;
+  color: #222;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
   line-height: 1.6;
 }
 
-/* ===============================
-   🌍 NAVIGATION BAR
-   =============================== */
-header {
-  background: #0a2540;
-  padding: 1rem 0;
+h1, h2, h3 {
+  margin: 0.5rem 0;
 }
 
-nav {
-  display: flex;
-  justify-content: center;
-  gap: 2rem;
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
 
-nav a {
-  color: #fff;
+/* ===================== HEADER ===================== */
+.site-header {
+  text-align: center;
+  background-color: #0f172a;
+  color: white;
+  padding: 2rem 1rem;
+}
+
+.group-name {
+  font-size: 1.8rem;
+}
+
+.tagline {
+  font-size: 1rem;
+  opacity: 0.8;
+}
+
+.main-nav ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 1rem;
+}
+
+.main-nav li {
+  display: inline-block;
+  margin: 0 0.75rem;
+}
+
+.main-nav a {
+  color: white;
   text-decoration: none;
-  font-weight: 600;
-  transition: color 0.3s ease;
+  font-weight: 500;
+  font-size: 1rem;
 }
 
-nav a:hover {
-  color: #ffd700;
+.main-nav a:hover,
+.main-nav a.active {
+  text-decoration: underline;
 }
 
-/* ===============================
-   🦸 HERO SECTION
-   =============================== */
+.date-form {
+  margin-top: 1rem;
+}
+
+input[type="date"] {
+  padding: 0.5rem;
+  border-radius: 4px;
+  border: none;
+  font-size: 1rem;
+}
+
+/* ===================== HERO ===================== */
 .hero {
   text-align: center;
   padding: 3rem 1rem;
-  background: linear-gradient(to right, #0a2540, #143a6d);
+  background: linear-gradient(to right, #1e3a8a, #0ea5e9);
   color: white;
 }
 
 .hero h1 {
-  font-size: 2.5rem;
-  margin-bottom: 0.5rem;
+  font-size: 2rem;
+  font-weight: 600;
 }
 
 .hero p {
-  max-width: 600px;
-  margin: 0 auto;
-  font-size: 1.1rem;
+  font-size: 1rem;
+  margin-top: 0.5rem;
 }
 
-/* ===============================
-   📄 CONTENT CONTAINERS
-   =============================== */
-.container,
-.about {
-  max-width: 900px;
+/* ===================== SECTIONS ===================== */
+.about, 
+.profile, 
+.tech-stack, 
+.timeline, 
+.skills {
+  max-width: 1100px;
   margin: 2rem auto;
-  padding: 2rem;
-  background: #fff;
-  border-radius: 12px;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  padding: 0 1rem;
 }
 
-.about img {
+.about {
+  text-align: center;
+}
+
+.about img.profile-image {
   max-width: 180px;
+  margin: 1rem auto;
   border-radius: 50%;
-  display: block;
-  margin: 0 auto 1rem;
 }
 
-.about h2 {
-  text-align: center;
-  color: #0a2540;
-  margin-bottom: 1rem;
+.about-text {
+  margin-top: 1rem;
 }
 
-.about p {
-  text-align: center;
-  font-size: 1rem;
-  line-height: 1.7;
-}
-
-/* ===============================
-   📬 FORMS
-   =============================== */
-form {
+/* ===================== PROFILE ===================== */
+.profile {
   display: flex;
-  flex-direction: column;
-  gap: 1rem;
-}
-
-label {
-  font-weight: 600;
-}
-
-input,
-textarea {
-  padding: 0.7rem;
-  border: 1px solid #ccc;
-  border-radius: 6px;
-  font-size: 1rem;
-  width: 100%;
-}
-
-input[type="submit"] {
-  background: #0a2540;
-  color: #fff;
-  font-weight: bold;
-  cursor: pointer;
-  transition: background 0.3s ease;
-}
-
-input[type="submit"]:hover {
-  background: #143a6d;
-}
-
-/* ===============================
-   📜 LISTS (Hobbies)
-   =============================== */
-ol {
-  padding-left: 1.5rem;
-  font-size: 1rem;
-}
-
-li {
-  margin: 0.6rem 0;
-  line-height: 1.5;
-  transition: transform 0.2s ease;
-  cursor: default;
-}
-
-li:hover {
-  transform: translateX(8px);
-  color: #0a2540;
-  font-weight: 600;
-}
-
-.emoji {
-  margin-right: 8px;
-}
-
-/* ===============================
-   🦶 FOOTER
-   =============================== */
-footer {
-  background: #0a2540;
-  color: #fff;
+  flex-wrap: wrap;
+  gap: 2rem;
+  align-items: center;
+  justify-content: center;
   text-align: center;
-  padding: 1rem 0;
-  margin-top: auto;
-  font-size: 0.9rem;
 }
 
-footer a {
-  color: #ffd700;
+.profile-details h2 {
+  margin-bottom: 0.5rem;
+}
+
+.profile-details a {
+  color: #0ea5e9;
   text-decoration: none;
-  margin-left: 5px;
 }
 
-footer a:hover {
+.profile-details a:hover {
   text-decoration: underline;
 }
 
-/* ===============================
-   📱 RESPONSIVE DESIGN
-   =============================== */
-@media (max-width: 768px) {
-  .hero h1 {
+/* ===================== TECH STACK ===================== */
+.tech-stack ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+.tech-stack li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #ddd;
+  text-align: center;
+}
+
+/* ===================== TIMELINE ===================== */
+.timeline table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+.timeline th,
+.timeline td {
+  padding: 0.75rem;
+  border-bottom: 1px solid #ddd;
+}
+
+.timeline th {
+  background-color: #0f172a;
+  color: white;
+  text-align: left;
+}
+
+/* ===================== SKILLS ===================== */
+.skills-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.skills table {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 400px;
+}
+
+.skills td {
+  padding: 0.5rem;
+  border-bottom: 1px solid #ddd;
+}
+
+/* ===================== FOOTER NAV ===================== */
+.footer-nav {
+  text-align: center;
+  margin-top: 2rem;
+  padding: 1rem;
+}
+
+.footer-nav a {
+  margin: 0 1rem;
+  text-decoration: none;
+  color: #1e3a8a;
+  font-weight: 500;
+}
+
+.footer-nav a:hover {
+  text-decoration: underline;
+}
+
+/* ===================== FOOTER ===================== */
+.site-footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #0f172a;
+  color: white;
+  margin-top: 2rem;
+  font-size: 0.9rem;
+}
+
+/* ===================== MEDIA QUERIES ===================== */
+
+/* ---- Tablets (≥ 600px) ---- */
+@media (min-width: 600px) {
+  .group-name {
     font-size: 2rem;
   }
 
-  nav {
-    flex-wrap: wrap;
-    gap: 1rem;
+  .hero h1 {
+    font-size: 2.5rem;
   }
 
-  .container,
-  .about {
-    padding: 1.5rem;
-    margin: 1rem;
+  .hero p {
+    font-size: 1.1rem;
   }
+
+  .main-nav li {
+    margin: 0 1rem;
+  }
+
+  .profile {
+    text-align: left;
+  }
+
+  .profile-details {
+    max-width: 500px;
+  }
+
+  .skills-grid {
+    justify-content: space-around;
+  }
+}
+
+/* ---- Laptops & Desktops (≥ 992px) ---- */
+@media (min-width: 992px) {
+  .group-name {
+    font-size: 2.4rem;
+  }
+
+  .hero h1 {
+    font-size: 3rem;
+  }
+
+  .hero p {
+    font-size: 1.2rem;
+  }
+
+  .main-nav a {
+    font-size: 1.1rem;
+  }
+
+  .profile {
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    text-align: left;
+  }
+
+  .about img.profile-image {
+    max-width: 220px;
+  }
+
+  .timeline table {
+    font-size: 1rem;
+  }
+
+  .skills table {
+    max-width: 350px;
+  }
+
+  .footer-nav a {
+    font-size: 1rem;
+  }
+}
+
+/* ---- Large Screens (≥ 1200px) ---- */
+@media (min-width: 1200px) {
+  .about, .profile, .tech-stack, .timeline, .skills {
+    max-width: 1200px;
+  }
+
+  .hero h1 {
+    font-size: 3.5rem;
+  }
+
+  .hero p {
+    font-size: 1.3rem;
+  }
+}
+
+/* Optional: visually hidden class for accessibility */
+.visually-hidden {
+  position: absolute;
+  left: -9999px;
 }

@@ -2,183 +2,139 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>De-Scientist | TechVision Studios & Solutions</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <header style="text-align:center;">
-    <hr size="3" noshade>
-    <h1>FEDHA YOUTH GROUP</h1>
-    <h2>This is the beginning of something <strong>BIG and WONDERFUL</strong></h2>
-    <hr size="3" noshade>
-      <nav>
-      <a href="index.html">Home</a>
-      <a href="hobbies.html">Hobbies</a>
-      <a href="contact.html">Contact</a>
+  <!-- ================= HEADER ================= -->
+  <header class="site-header">
+    <div class="header-top">
+      <p class="tagline">This is the beginning of something <strong>BIG and WONDERFUL</strong></p>
+    </div>
+    <nav class="main-nav">
+      <ul>
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="hobbies.html">Hobbies</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
     </nav>
-    <form>
-      <input type="date">
+    <form class="date-form">
+      <label for="today-date" class="visually-hidden">Pick a date</label>
+      <input type="date" id="today-date" name="today-date">
     </form>
   </header>
 
+  <!-- ================= HERO SECTION ================= -->
   <section class="hero">
     <h1>De-Scientist ⚡</h1>
     <p>UI/UX Designer • Full-Stack Developer • Visionary Builder • CEO of TechVision S & S</p>
   </section>
 
-  <section class="about">
-    <img src="web.me2.png" alt="De-Scientist">
-    <h2>Vision Meets Code</h2>
-    <p>
-      I am <strong>Mark Kinyanjui</strong> — known as <strong>De-Scientist</strong>.<br>
-      A designer of interfaces, a builder of systems, and a dreamer with hands that create.<br>
-      My craft blends <b>AI</b>, <b>UI/UX</b>, <b>full-stack development</b>, and a visionary’s heart for transformation.  
-      I believe technology is not just a tool — it’s a calling.
-    </p>
-  </section>
+  <!-- ================= ABOUT ================= -->
+  <main>
+    <section class="about">
+      <img src="web.me2.png" alt="Portrait of De-Scientist" class="profile-image">
+      <div class="about-text">
+        <h2>Vision Meets Code</h2>
+        <p>
+          I am <strong>Mark Kinyanjui</strong> — known as <strong>De-Scientist</strong>.<br>
+          A designer of interfaces, a builder of systems, and a dreamer with hands that create.<br>
+          My craft blends <b>AI</b>, <b>UI/UX</b>, <b>full-stack development</b>, and a visionary’s heart for transformation.<br>
+          I believe technology is not just a tool — it’s a calling.
+        </p>
+      </div>
+    </section>
 
-  
-  <section>
-    <table cellspacing="10">
-      <tr>
-        <td>
-          <img src="web.me2.png" alt="De-Scientist" width="200">
-        </td>
-        <td>
-          <h1>Mark Kinyanjui (De-Scientist)</h1>
-          <p><em>Founder & CEO of <strong><a href="https://techvisions.co.ke" target="_blank">TechVision Studios & Solutions</a></strong></em></p>
-          <p>
-            I am a visionary UI/UX Designer, Full-Stack Developer, AI & FinTech enthusiast, and a writer of spoken word poetry and short stories.  
-            My life’s mantra: <strong>“Every day is a day to learn, earn, and return.”</strong><br>
-            I’m driven by purpose, anchored in faith, and committed to creating technology that transforms lives.
-          </p>
-        </td>
-      </tr>
-    </table>
-  </section>
+    <!-- ================= PROFILE ================= -->
+    <section class="profile">
+      <div class="profile-image-container">
+        <img src="web.me2.png" alt="De-Scientist" width="200">
+      </div>
+      <div class="profile-details">
+        <h2>Mark Kinyanjui (De-Scientist)</h2>
+        <p>
+          <em>Founder & CEO of 
+            <strong>
+              <a href="https://techvisions.co.ke" target="_blank" rel="noopener noreferrer">
+                TechVision Studios & Solutions
+              </a>
+            </strong>
+          </em>
+        </p>
+        <p>
+          I am a visionary UI/UX Designer, Full-Stack Developer, AI & FinTech enthusiast, and a writer of spoken word poetry and short stories.<br>
+          <strong>“Every day is a day to learn, earn, and return.”</strong><br>
+          Driven by purpose, anchored in faith, committed to creating technology that transforms lives.
+        </p>
+      </div>
+    </section>
 
-  <hr size="3" noshade>
+    <!-- ================= TECH STACK ================= -->
+    <section class="tech-stack">
+      <h3>Tech Stack & Tools</h3>
+      <ul>
+        <li>JavaScript (React.js, Next.js, TypeScript)</li>
+        <li>Node.js & Fastify (Backend)</li>
+        <li>Prisma & PostgreSQL (Database)</li>
+        <li>Python (AI/ML — Transformers, TensorFlow, PyTorch)</li>
+        <li>UI/UX — Figma, TailwindCSS, Framer Motion</li>
+      </ul>
+    </section>
 
-  <section>
-    <h3>Tech Stack & Tools</h3>
-    <ul>
-      <li>JavaScript (React.js, Next.js, TypeScript)</li>
-      <li>Node.js & Fastify (Backend)</li>
-      <li>Prisma & PostgreSQL (Database)</li>
-      <li>Python (AI/ML — Transformers, TensorFlow, PyTorch)</li>
-      <li>UI/UX — Figma, TailwindCSS, Framer Motion</li>
-    </ul>
-  </section>
+    <!-- ================= TIMELINE ================= -->
+    <section class="timeline">
+      <h3>Study & Experience Timeline</h3>
+      <table>
+        <thead>
+          <tr>
+            <th>Dates</th>
+            <th>Milestones</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>2009 – 2016</td><td>Primary School Education</td></tr>
+          <tr><td>2017 – 2021</td><td>High School Education</td></tr>
+          <tr><td>2021 – Present</td><td>University — Computer Science & AI Specialization</td></tr>
+          <tr><td>2022</td><td>Advanced Web Development & UI/UX Design</td></tr>
+          <tr><td>2023 – Present</td><td>Founder & CEO of TechVision Studios & Solutions</td></tr>
+          <tr><td>2024 – Present</td><td>Lead Developer — Edu_AI</td></tr>
+        </tbody>
+      </table>
+    </section>
 
-  <hr size="3" noshade>
+    <!-- ================= SKILLS ================= -->
+    <section class="skills">
+      <h3>Skills</h3>
+      <div class="skills-grid">
+        <table>
+          <tr><td>Full-Stack Development</td><td>⭐⭐⭐⭐⭐</td></tr>
+          <tr><td>UI/UX Design</td><td>⭐⭐⭐⭐⭐</td></tr>
+          <tr><td>Python & AI/ML</td><td>⭐⭐⭐⭐</td></tr>
+          <tr><td>Web 3D & Animations</td><td>⭐⭐⭐</td></tr>
+          <tr><td>Data Analysis (SPSS, Excel)</td><td>⭐⭐⭐</td></tr>
+        </table>
+        <table>
+          <tr><td>Photography & Visual Storytelling</td><td>⭐⭐⭐</td></tr>
+          <tr><td>Video Editing</td><td>⭐⭐⭐</td></tr>
+          <tr><td>Poster Design & Branding</td><td>⭐⭐⭐⭐</td></tr>
+          <tr><td>Livestreaming via OBS</td><td>⭐⭐⭐⭐</td></tr>
+          <tr><td>Public Speaking & Leadership</td><td>⭐⭐⭐⭐</td></tr>
+        </table>
+      </div>
+    </section>
+  </main>
 
-  <section>
-    <h3>Study & Experience Timeline</h3>
-    <table cellspacing="20" border="1">
-      <thead>
-        <tr>
-          <th>Dates</th>
-          <th>Milestones</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>2009 - 2016</td>
-          <td>Primary School Education</td>
-        </tr>
-        <tr>
-          <td>2017 - 2021</td>
-          <td>High School Education</td>
-        </tr>
-        <tr>
-          <td>2021 - Present</td>
-          <td>University — Computer Science & AI Specialization</td>
-        </tr>
-        <tr>
-          <td>2022</td>
-          <td>Advanced Web Development & UI/UX Design</td>
-        </tr>
-        <tr>
-          <td>2023 - Present</td>
-          <td>Founder & CEO of TechVision Studios & Solutions</td>
-        </tr>
-        <tr>
-          <td>2024 - Present</td>
-          <td>Edu_AI — AI-powered Education Platform (Lead Developer)</td>
-        </tr>
-      </tbody>
-    </table>
-  </section>
-
-  <hr size="3" noshade>
-
-  <section>
-    <h3>Skills</h3>
-    <table border="1">
-      <tr>
-        <td>
-          <table cellspacing="20" border="1">
-            <tr>
-              <td>Full-Stack Development</td>
-              <td>⭐⭐⭐⭐⭐</td>
-            </tr>
-            <tr>
-              <td>UI/UX Design</td>
-              <td>⭐⭐⭐⭐⭐</td>
-            </tr>
-            <tr>
-              <td>Python & AI/ML</td>
-              <td>⭐⭐⭐⭐</td>
-            </tr>
-            <tr>
-              <td>Web 3D & Animations</td>
-              <td>⭐⭐⭐</td>
-            </tr>
-            <tr>
-              <td>Data Analysis (SPSS, Excel)</td>
-              <td>⭐⭐⭐</td>
-            </tr>
-          </table>
-        </td>
-        <td>
-          <table cellspacing="20" border="1">
-            <tr>
-              <td>Photography & Visual Storytelling</td>
-              <td>⭐⭐⭐</td>
-            </tr>
-            <tr>
-              <td>Video Editing</td>
-              <td>⭐⭐⭐</td>
-            </tr>
-            <tr>
-              <td>Poster Design & Branding</td>
-              <td>⭐⭐⭐⭐</td>
-            </tr>
-            <tr>
-              <td>Livestreaming via OBS</td>
-              <td>⭐⭐⭐⭐</td>
-            </tr>
-            <tr>
-              <td>Public Speaking & Leadership</td>
-              <td>⭐⭐⭐⭐</td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </section>
-
-  <hr size="3" noshade>
-
-  <section style="text-align:center;">
-    <a href="hobbies.html">My Hobbies</a> |
-    <a href="contact-me.html">Contact Me</a> |
+  <!-- ================= NAV LINKS ================= -->
+  <nav class="footer-nav">
+    <a href="hobbies.html">My Hobbies</a>
+    <a href="contact-me.html">Contact Me</a>
     <a href="HTML-Inputs.html">My HTML Inputs</a>
-  </section>
+  </nav>
 
-  <footer style="text-align:center; margin-top:20px;">
+  <!-- ================= FOOTER ================= -->
+  <footer class="site-footer">
     <p>© 2025 Mark Kinyanjui (De-Scientist) | TechVision Studios & Solutions</p>
   </footer>
 </body>
 </html>
-

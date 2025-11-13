@@ -12,7 +12,14 @@
 </div>
 
 <h1 align="center">
-  👨🏻‍💻  A Little Bit About Me and My Interests
+  ## 🚀 About Me
+
+🎓 I'm a *Computer Science student* passionate about developing intelligent systems and full-stack web apps.  
+💡 My interests include *Artificial Intelligence, Web Development, Cybersecurity,* and *Networking*.  
+🌱 Currently exploring *Node.js, **Prisma, and **Firebase* integration for backend systems.  
+💻 I enjoy solving real-world problems through code and learning emerging technologies every day.
+
+---
 </h1>
 
   ```yaml

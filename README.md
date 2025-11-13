@@ -11,16 +11,19 @@
        alt="Programming" width="280px"/>
 </div>
 
-<h1 align="center">
-  ## 🚀 About Me
+<div align="center">
 
-🎓 I'm a *Computer Science student* passionate about developing intelligent systems and full-stack web apps.  
-💡 My interests include *Artificial Intelligence, Web Development, Cybersecurity,* and *Networking*.  
-🌱 Currently exploring *Node.js, **Prisma, and **Firebase* integration for backend systems.  
-💻 I enjoy solving real-world problems through code and learning emerging technologies every day.
+## 🚀 About Me  
 
----
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=0AF7E6&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+De-Scientist!;A+Computer+Scientist+%26+Full-Stack+Developer.;Building+intelligent+systems+with+purpose.;Passionate+about+AI%2C+UX%2C+and+innovation.;Every+day+is+a+day+to+learn%2C+earn%2C+and+return.">
+  
+🎓 I'm a *Computer Scientist* passionate about building intelligent systems and full-stack web applications.  
+💡 My world revolves around *Artificial Intelligence, UI/UX Design, Web Development,* and *Cybersecurity.*  
+🌱 Currently exploring advanced *Node.js, Prisma,* and *Firebase* integrations for scalable backend systems.  
+💻 I solve real-world problems through elegant code, poetic design, and disciplined innovation.  
+
+</div>
+
 
   ```yaml
 name: Mark Gitau

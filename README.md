@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0f0f,100:8e44ad&height=250&section=header&text=Hi%20%F0%9F%91%8C&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=25&desc=Welcome%20to%20my%20Profile!&descSize=20&descAlignY=45&descAlign=50&descAlignX=50&descColor=aaaaaa" />
 </p>
 
+
 <div align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/-Programming-black?style=for-the-badge&logo=github&logoColor=white" />

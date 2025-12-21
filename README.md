@@ -16,7 +16,7 @@
 
 # 🧑‍💻This is me 
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=0AF7E6&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+De-Scientist!;A+Computer+Scientist+%26+Full-Stack+Developer.;Building+intelligent+systems+with+purpose.;Passionate+about+AI%2C+UX%2C+and+innovation.;Every+day+is+a+day+to+learn%2C+earn%2C+and+return.">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=0AF7E6&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+De-Scientist!;A+Computer+Scientist+%26+Full-Stack+Developer.;Building+intelligent+systems+with+purpose.;Passionate+about+AI%2C+UX%2C+and+innovation.;Every+day+is+a+day+to+Learn%2C+Earn%2C+and+Return.""
   
 </div>
 

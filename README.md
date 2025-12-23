@@ -16,7 +16,7 @@
 
 # 🧑‍💻This is me 
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1200&color=0AF7E6&center=true&vCenter=true&width=820&lines=Hey%2C+I'm+De-Scientist.;Computer+Scientist+%26+Full-Stack+Developer.;Computer+Science+Graduate+from+Murang'a+University+of+Technology.;Certified+Software+Engineer+%40+Teach2Give.;I+build+intelligent+systems+with+purpose.;Driven+by+AI%2C+UX%2C+and+bold+innovation.;Every+day+I+Learn%2C+Earn%2C+and+Return.">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1200&color=0AF7E6&center=true&vCenter=true&width=820&lines=Greetings%2C+I'm+De-Scientist.;Computer+Scientist+%26+Full-Stack+Developer.;Computer+Science+Graduate+from+Murang'a+University+of+Technology.;Certified+Software+Engineer+%40+Teach2Give.;I+build+intelligent+systems+with+purpose.;Driven+by+AI%2C+UX%2C+and+bold+innovation.;Every+day+I+Learn%2C+Earn%2C+and+Return.">
 
 
   

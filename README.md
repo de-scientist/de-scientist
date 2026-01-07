@@ -124,6 +124,33 @@ contact:
 
 </div>
 
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=de-scientist&show_icons=true&theme=dracula&hide_border=true&cache_seconds=86400"
+    height="180"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=de-scientist&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400"
+    height="180"
+  />
+
+  <br/><br/>
+
+  <img
+  src="https://github-readme-stats.vercel.app/api/wakatime
+  ?username=descientist
+  &theme=dracula
+  &hide_border=true
+  &cache_seconds=86400"
+/>
+
+
+</div>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0f0f,100:8e44ad&height=200&section=footer&fontColor=ffffff&animation=twinkling" />
 </p>

@@ -103,10 +103,7 @@ contact:
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=de-scientist&show_icons=true&theme=dracula" height="200"/>
  <!-- </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=de-scientist&theme=dracula&hide_border=true" height="200"/>
-  </a>-->
-
+    
 </div>
 
 <br/>
@@ -126,16 +123,6 @@ contact:
   </a>
 
 </div>
-
-
-
-<!--![Snake animation](https://github.com/de-scientist/de-scientist/blob/output/github-contribution-grid-snake.svg)-->
-
-<!--![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/de-scientist/contributions?format=svg&private=false) --> 
-
-<!--![GitHub streak stats](https://streak-stats.demolab.com/?user=de-scientist) --> 
-
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=de-scientist&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0f0f,100:8e44ad&height=200&section=footer&fontColor=ffffff&animation=twinkling" />

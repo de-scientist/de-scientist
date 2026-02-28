@@ -42,7 +42,7 @@ fields_of_interests:
     "Machine Learning", "Software Engineering", "DevOps",
   ]
 
-hobbies: ["Designing", "Writing Spoken Word Poetry", "Cinema", "Technology", "Art"]
+hobbies: [ "Teaching", "Guiding", "Designing", "Writing Spoken Word Poetry", "Cinema", "Technology", "Art"]
 
 contact:
   mobile: "+254 729934671"

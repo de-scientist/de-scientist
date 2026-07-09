@@ -30,7 +30,7 @@ current_job: Full Stack Developer & Graphic Designer
 
 education: 
   [
-    "Bachelor’s in Computer Science",
+    "Bachelor’s Degree in Computer Science",
     "Certificate in Software Engineering",
     "Certificate in Graphic Design",
   ]

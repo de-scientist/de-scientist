@@ -26,7 +26,7 @@
   ```yaml
 name: Mark Kinyanjui Gitau
 located_in: Laikipia HQ, Kenya
-current_job: 
+current_job: IT Consultant
 
 education: 
   [

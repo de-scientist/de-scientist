@@ -24,7 +24,7 @@
 
 
   ```yaml
-name: Mark Kinyanjui
+name: Mark Kinyanjui Gitau
 located_in: Laikipia HQ, Kenya
 current_job: Full Stack Developer & Graphic Designer
 

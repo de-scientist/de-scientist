@@ -35,7 +35,7 @@ education:
     "Certificate in Graphic Design",
   ]
 
-company: TechVision Studios & Solutions
+company: ASH Tech Hub
 
 fields_of_interests:
   [

@@ -34,7 +34,7 @@ education:
     "Certificate in Graphic Design",
   ]
 
-company: ASH Tech Hub
+company: JTH GRAPHICS PRODUCTION LTD
 
 fields_of_interests:
   [

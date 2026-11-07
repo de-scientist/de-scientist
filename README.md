@@ -25,7 +25,7 @@
   ```yaml
 name: Mark Kinyanjui Gitau
 located_in: Kiambu, Kenya
-current_job: IT Consultant and Technician
+current_job: Full-Stack Developer,IT Consultant and Technician
 
 education: 
   [
